@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm Joe Bae Gallego",
+    title: "Hi, I'm Bae Joie Gallego",
     animated: {
         first: "Fonr-End",
         second: "Volleyball",
@@ -19,7 +19,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "I'm Joe Bae Galleog and I'm Front-End Developer from Saint Colomban Collage 4th year. I love Travel, Palying Volleyball and I Play Video Games",
+    aboutme: "I'm Bae Joie Galleog and I'm Front-End Developer from Saint Colomban Collage 4th year. I love Travel, Palying Volleyball and I Play Video Games",
 };
 const worktimeline = [{
         jobtitle: "Example 1",
