@@ -1,27 +1,25 @@
-const logotext = "{Initials Here}";
+const logotext = "Home";
 const meta = {
-    title: "{Your name}",
+    title: "Porfolio",
     description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Joe Bae Gallego",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        first: "Fonr-End",
+        second: "Volleyball",
+        third: "Travel",
+    
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    your_img_url: "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/400435258_2546593442175705_1229290702966481978_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=t1Ktz9dojHAAX_nn1xR&_nc_ht=scontent.fceb1-2.fna&oh=00_AfCW5u3Q9MNEs64p3ZVVjFB3Jzq1j0SzEMHSdHYD2hsKpA&oe=65AAB6B4",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "I'm Joe Bae Galleog and I'm Front-End Developer from Saint Colomban Collage 4th year. I love Travel, Palying Volleyball and I Play Video Games",
 };
 const worktimeline = [{
         jobtitle: "Example 1",
